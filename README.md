@@ -1,7 +1,8 @@
 # telecom
 
-#1. Create customer: http://localhost:8080/v1/customer
 
+	<h2>1. Create customer: http://localhost:8080/v1/customer</h2>
+<div>
 Body
 
 {
@@ -17,7 +18,7 @@ Responce
     "name": "Ramprasad",
     "email": "ram@gmail.com",
     "date": "1999-02-12"
-}
+}</div>
 
 2. Create Sim: http://localhost:8080/v1/sim
 
