@@ -1,6 +1,12 @@
 # Telecom
 
-A brief description of what this project does and who it's for
+Problem in the given task is done 
+
+Run ```http docker-compose up -d --build --force-recreate``` to run the  application
+
+-maildev is smtp
+
+Below are the api tested
 
 ##Screenshot of Email
 ![Screenshot 2021-12-22 171120](https://user-images.githubusercontent.com/83490407/147094579-28d9e08c-6037-4c98-9f1c-8230ea3c9dc4.png)
