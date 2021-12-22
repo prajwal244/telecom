@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "birthdate.notification.day",
+    "type": "java.lang.String",
+    "description": "A description for 'birthdate.notification.day'"
+  },
+  {
+    "name": "birthdate.notification.message",
+    "type": "java.lang.String",
+    "description": "A description for 'birthdate.notification.message'"
+  },
+  {
+    "name": "spring.enable.scheduling",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.enable.scheduling'"
+  },
+  {
+    "name": "reporting.filename",
+    "type": "java.lang.String",
+    "description": "A description for 'reporting.filename'"
+  },
+  {
+    "name": "birthday.message.subject",
+    "type": "java.lang.String",
+    "description": "A description for 'birthday.message.subject'"
+  },
+  {
+    "name": "birthday.message.send.from",
+    "type": "java.lang.String",
+    "description": "A description for 'birthday.message.send.from'"
+  },
+  {
+    "name": "reporting.path",
+    "type": "java.lang.String",
+    "description": "A description for 'reporting.path'"
+  },
+  {
+    "name": "maildev.port",
+    "type": "java.lang.String",
+    "description": "A description for 'maildev.port'"
+  },
+  {
+    "name": "maildev.hostname",
+    "type": "java.lang.String",
+    "description": "A description for 'maildev.hostname'"
+  }
+]}
