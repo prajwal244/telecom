@@ -2,7 +2,8 @@
 
 A brief description of what this project does and who it's for
 
-
+##Screenshot of Email
+![Screenshot 2021-12-22 171120](https://user-images.githubusercontent.com/83490407/147094579-28d9e08c-6037-4c98-9f1c-8230ea3c9dc4.png)
 ## API Reference
 
 
