@@ -2,7 +2,7 @@
 
 Problem in the given task is done 
 
-Run ```http docker-compose up -d --build --force-recreate``` to run the  application
+Run ``` docker-compose up -d --build --force-recreate``` to run the  application
 
 -maildev is smtp
 
